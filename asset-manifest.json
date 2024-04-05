@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movix/static/css/main.f6679d1f.css",
+    "main.js": "/movix/static/js/main.7f32816f.js",
+    "static/js/453.54da2868.chunk.js": "/movix/static/js/453.54da2868.chunk.js",
+    "index.html": "/movix/index.html",
+    "main.f6679d1f.css.map": "/movix/static/css/main.f6679d1f.css.map",
+    "main.7f32816f.js.map": "/movix/static/js/main.7f32816f.js.map",
+    "453.54da2868.chunk.js.map": "/movix/static/js/453.54da2868.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6679d1f.css",
+    "static/js/main.7f32816f.js"
+  ]
+}
